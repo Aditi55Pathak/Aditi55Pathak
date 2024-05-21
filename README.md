@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at PDEU<br>👯 I’m doing BTech in CSE<br>🌱 I’m currently learning Cloud and Cyber Security<br>💬 Passionate Graphics Designer
+🔭 I’m currently studying at PDEU<br>👯 I’m doing BTech in CSE<br>🌱 Cloud Computing, Cyber Security and Python <br>💬 Passionate Graphics Designer
 
 
 # 💻 Tech Stack:
