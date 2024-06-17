@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently studying at PDEU<br>👯 I’m doing BTech in CSE<br>🌱 Cloud Computing, Cyber Security, Python, DevOps <br>💬 Passionate Graphics Designer
+🚀 Cloud Computing | DevOps | Continuous Learner 📚
+
+🎨 Graphics Designer | Passionate about creative visual communication 🖌️
+
+👩🏻‍💻 Love building scalable and reliable systems that make a difference 🌐
+
+🌱 Always exploring new technologies and seeking ways to innovate 🚀
 
 
 # 💻 Tech Stack:
